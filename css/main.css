@@ -4,7 +4,7 @@
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #404040;
   position: relative;
   background: #FFF;
@@ -37,7 +37,7 @@ blockquote p:first-child {
 }
 hr.small {
   max-width: 100px;
-  margin: 15px auto;
+  margin: 12px auto;
   border-width: 4px;
   border-color: inherit;
   border-radius: 3px;
@@ -241,7 +241,7 @@ footer {
   background: #F5F5F5;
   border-top: 1px #EAEAEA solid;
   margin-top: 50px;
-  font-size: 14px;
+  font-size: 12px;
 }
 
 footer a {
@@ -259,7 +259,7 @@ footer .copyright {
 }
 footer .theme-by {
   text-align: center;
-  margin: 10px 0 0;
+  margin: 8px 0 0;
 }
 
 @media only screen and (min-width: 768px) {
@@ -403,15 +403,15 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 50px;
+  font-size: 35px;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 35px;
+  font-size: 20px;
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 27px;
+  font-size: 18px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -419,7 +419,7 @@ footer .theme-by {
   margin: 10px 0 0;
 }
 .intro-header .post-heading .post-subheading {
-  margin-bottom: 20px;
+  margin-bottom: 16px;
 }
 .intro-header.big-img .page-heading .page-subheading,
 .intro-header.big-img .post-heading .post-subheading {
