@@ -4,9 +4,9 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://googleslack.com"
+url: "http://googleslack.com/"
 baseurl: ""
-repository: googleslack/googleslack.github.io
+repository: googleslack.com
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -26,8 +26,10 @@ github_username: googleslack
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
-  Resources:
+   About: "about"
+   Resources:
+    - Calendar: "calendar"
+    - Google Developers: "https://developers.google.com/"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
@@ -90,7 +92,7 @@ url-pretty: "googleslack.com"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "googleslack"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+#google_analytics: "UA-86833502-1"
 
 # Facebook App ID
 # fb_app_id: ""
