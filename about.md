@@ -1,5 +1,6 @@
 ---
 layout: page
+comments: false
 title: About
 subtitle: What is this all about?
 ---
