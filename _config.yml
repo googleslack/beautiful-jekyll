@@ -25,9 +25,9 @@ github_username: googleslack
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  About: "about"
-  Resources:
+# navbar-links:
+#  About: "about"
+#  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"

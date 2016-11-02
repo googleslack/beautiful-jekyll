@@ -4,10 +4,4 @@ title: About
 subtitle: What is this all about?
 ---
 
-Google Home:
-
-- one thing
-- another thing
-
-What else do you need?
-
+<iframe width="640" height="360" src="https://www.youtube.com/embed/r0iLfAV0pIg" frameborder="0" allowfullscreen></iframe>
