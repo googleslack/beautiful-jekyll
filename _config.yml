@@ -27,7 +27,9 @@ github_username: googleslack
 # List of links in the navigation bar
 navbar-links:
    About: "about"
-#  Resources:
+   Resources:
+    - Calendar: "calendar"
+    - Google Developers: "https://developers.google.com/"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
