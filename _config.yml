@@ -29,7 +29,7 @@ navbar-links:
    About: "about"
    Resources:
     - Calendar: "calendar"
-    - Google Developers: "https://developers.google.com/"
+    - Actions on Google: "https://developers.google.com/actions/"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #    - GitHub Pages: "https://pages.github.com/"
