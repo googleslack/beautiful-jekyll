@@ -93,6 +93,8 @@ disqus: "googleslack"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-86833502-1"
+google_tagmanager_head: "GTM-MCNKW4"
+google_tagmanager_body: "GTM-MCNKW4"
 
 # Facebook App ID
 # fb_app_id: ""
