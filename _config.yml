@@ -92,7 +92,7 @@ url-pretty: "googleslack.com"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "googleslack"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-86833502-1"
+google_analytics: "UA-86833502-1"
 
 # Facebook App ID
 # fb_app_id: ""
